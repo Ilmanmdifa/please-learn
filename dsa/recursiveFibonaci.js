@@ -4,3 +4,5 @@ function recursiveFibonaci(n) {
 }
 
 console.log(recursiveFibonaci(8));
+
+// Big-O = O(2^n) its bad for fibonaci solution

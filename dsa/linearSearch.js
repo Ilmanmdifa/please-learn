@@ -10,3 +10,5 @@ function linearSearch(arr, target) {
 console.log(linearSearch([1, 2, 3, 8, 100], 3));
 console.log(linearSearch([1, 2, 3, 8, 100], 100));
 console.log(linearSearch([1, 2, 3, 8, 100], 199));
+
+// Big-O = O(n)

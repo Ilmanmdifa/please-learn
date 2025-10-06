@@ -7,3 +7,5 @@ function fibonaci(n) {
 }
 
 console.log(fibonaci(5));
+
+//Big-O = O(n)

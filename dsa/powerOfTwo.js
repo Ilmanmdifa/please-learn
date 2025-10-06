@@ -23,3 +23,6 @@ console.log(powerOfTwo(2));
 console.log(powerOfTwoBitWise(4));
 console.log(powerOfTwo(9));
 console.log(powerOfTwoBitWise(16));
+
+//Big-O = O(logn) for normal powerOfTwo
+//Big-O = O(1) for powerOfTwoBitWise

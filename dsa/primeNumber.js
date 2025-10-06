@@ -15,3 +15,6 @@ function primeNumber(n) {
 console.log(primeNumber(10));
 console.log(primeNumber(7));
 console.log(primeNumber(11));
+
+//Big-O = O(n) without Math.sqrt
+//Big-O = O(sqrt(n))
